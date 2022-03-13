@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @taipei-native.
+- 👀 I’m interested in Cities: Skylines modding.
+- 🌱 I’m currently learning C#.
+- 📫 You could reach me by sending mails to 4alpelna4lve@gmail.com.
